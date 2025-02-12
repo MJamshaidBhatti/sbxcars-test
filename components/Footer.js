@@ -1,4 +1,4 @@
-import { FaFacebookF, FaInstagram, FaYoutube, FaXTwitter, FaTiktok, FaLinkedin } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaYoutube, FaTiktok, FaLinkedin } from "react-icons/fa";
 import footer from "../public/img/footer.svg"
 import Image from "next/image";
 const Footer = () => {
@@ -19,7 +19,6 @@ const Footer = () => {
                             <FaFacebookF className="cursor-pointer hover:text-black" />
                             <FaInstagram className="cursor-pointer hover:text-black" />
                             <FaYoutube className="cursor-pointer hover:text-black" />
-                            {/* <FaXTwitter className="cursor-pointer hover:text-black" /> */}
                             <FaTiktok className="cursor-pointer hover:text-black" />
                             <FaLinkedin className="cursor-pointer hover:text-black" />
                         </div>
