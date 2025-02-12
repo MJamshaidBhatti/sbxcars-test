@@ -107,6 +107,36 @@ const CarListing = () => {
             timeLeft: "9 days",
             favorites: 17,
         },
+        {
+            image: card4,
+            year: 2023,
+            name: "Porsche",
+            model: "911 Carrera T",
+            location: "Dubai, United Arab Emirates",
+            price: "20,000 AED",
+            timeLeft: "7 days",
+            favorites: 23,
+        },
+        {
+            image: card5,
+            year: 2018,
+            name: "Aston Martin",
+            model: "V12 Zagato - 1 of 18 RHD Spec",
+            location: "Cobham, United Kingdom",
+            price: "£16,900",
+            timeLeft: "8 days",
+            favorites: 31,
+        },
+        {
+            image: card6,
+            year: 1995,
+            name: "Land Rover",
+            model: 'Defender 90 300Tdi "Brooklyn Coachworks"',
+            location: "Jessup, Maryland, USA",
+            price: "US$15,500",
+            timeLeft: "9 days",
+            favorites: 17,
+        },
     ];
 
     return (
