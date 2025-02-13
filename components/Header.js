@@ -74,8 +74,8 @@ const Header = () => {
                             <Link href="/preview" className="text-gray-700">Preview</Link>
                             <Link href="/results" className="text-gray-700">Results</Link>
                             <Link href="/sell" className="text-gray-700">Sell</Link>
-                            <Link href="/faq" className="text-gray-700">FAQ</Link>
-                            <Link href="/about" className="text-gray-700">About</Link>
+                            <Link href="/faq" className="hidden lg:block text-gray-700">FAQ</Link>
+                            <Link href="/about" className=" hidden lg:block text-gray-700">About 2324</Link>
                         </nav>
                     </div>
         </header>
